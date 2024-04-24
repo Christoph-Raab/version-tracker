@@ -1,0 +1,8 @@
+[__config__]
+oldver = "current.json"
+newver = "new.json"
+
+[nvchecker]
+source = "github"
+github = "lilydjwg/nvchecker"
+use_max_tag = true
