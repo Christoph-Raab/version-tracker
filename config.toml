@@ -6,3 +6,8 @@ newver = "new.json"
 source = "github"
 github = "lilydjwg/nvchecker"
 use_max_tag = true
+
+[mcfly]
+source = "github"
+github = "cantino/mcfly"
+use_max_tag = true
